@@ -1,4 +1,4 @@
-# Pattern Recognition Project CSE 555
+# Pattern Recognition - NLP Project CSE 555
 This is a collaborated repository of Ramanathan, Harshitha reddy and Rakshitha for Pattern Recognition course Project
 
 This project is an IMDB movie review sentiment analysis with LSTM, GRU, and BERT models using PyTorch.
